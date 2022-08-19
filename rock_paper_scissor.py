@@ -1,3 +1,6 @@
+#From The Python Standard Library
+# docs.python.org
+# Generates randomness
 import random
 
 computer_choice = random.choice(['scissors', 'rock', 'paper'])
